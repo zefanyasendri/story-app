@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZSStoryApp</string>
+    <string name="title_welcome_page">Welcome to Story App by ZS</string>
+
+    <!--Welcome-->
+    <string name="message_welcome_page">sharing stories of people who are studying and graduating from Dicoding</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="copyright">© 2022 ZS</string>
+
+    <!--Auth-->
+    <string name="title_register_page">Register</string>
+    <string name="title_login_page">Login</string>
+    <string name="name">Name</string>
+    <string name="hint_name">Your Name</string>
+    <string name="email">Email</string>
+    <string name="hint_email">Your Email</string>
+    <string name="not_found_email">Email Not Found</string>
+    <string name="password">Password</string>
+    <string name="hint_password">Your Password</string>
+    <string name="not_found_password">Password Not Found</string>
+    <string name="login_msg">Login Success!</string>
+    <string name="login_failed_msg">Login Failed, Wrong Email/Invalid Password</string>
+    <string name="empty_name">Name cannot be empty</string>
+    <string name="empty_email">Email cannot be empty</string>
+    <string name="empty_password">Password cannot be empty</string>
+    <string name="required_input">Email / Password Required</string>
+
+    <!--Main-->
+    <string name="greeting">Hello %1$s,</string>
+    <string name="message_main_page">Welcome to Story App by ZS</string>
+    <string name="story_message">Story not found</string>
+    <string name="logout">Logout</string>
+    <string name="user_name">Name</string>
+    <string name="user_desc">Description Story</string>
+    <string name="user_created_at">%1$s</string>
+
+    <!--Add Story-->
+    <string name="fab_add_story">Add Story</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="hint_description">Description (required)</string>
+    <string name="no_permission">Not getting permission.</string>
+    <string name="actionbar_add_story">Add Story</string>
+    <string name="reminder_input_image">Please Input the Image File First.</string>
+
+    <string name="menu_localization">Change Language</string>
+
+    <!--Camera-->
+    <string name="failed_take_pict">Failed to take pictures.</string>
+    <string name="failed_bring_up_camera">Failed to bring up the camera.</string>
+
+    <!--Detail-->
+    <string name="actionbar_detail">Detail Story</string>
+    <string name="error_pass">Minimum 6 Characters Password</string>
+
+    <!-- Menu -->
+    <string name="title_activity_maps">Maps Activity</string>
+    <string name="menu_map">Change to Map View</string>
+    <string name="menu_list">Change to List View</string>
+
+    <string name="retry">Try Again</string>
+    <string name="click_camera">Click Camera</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="detail_photo">Detail Photo</string>
+
+</resources>

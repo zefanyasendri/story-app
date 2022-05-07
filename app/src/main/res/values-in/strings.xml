@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZSStoryApp</string>
+    <string name="title_welcome_page">Selamat Datang di Story App oleh ZS</string>
+
+    <!--Welcome-->
+    <string name="message_welcome_page">berbagi cerita tentang orang-orang yang sedang belajar dan lulus dari Dicoding</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="copyright">© 2022 ZS</string>
+
+    <!--Auth-->
+    <string name="title_register_page">Daftar</string>
+    <string name="title_login_page">Masuk</string>
+    <string name="name">Nama</string>
+    <string name="hint_name">Nama Anda</string>
+    <string name="email">Email</string>
+    <string name="hint_email">Email Anda</string>
+    <string name="not_found_email">Email Tidak Ditemukan</string>
+    <string name="password">Password</string>
+    <string name="hint_password">Password Anda</string>
+    <string name="not_found_password">Password Tidak Ditemukan</string>
+    <string name="login_msg">Berhasil Masuk!</string>
+    <string name="login_failed_msg">Gagal Masuk, Salah Email/Password Tidak Valid</string>
+    <string name="empty_name">Nama tidak boleh kosong</string>
+    <string name="empty_email">Email tidak boleh kosong</string>
+    <string name="empty_password">Password tidak boleh kosong</string>
+    <string name="required_input">Email / Password Required</string>
+
+    <!--Main-->
+    <string name="greeting">Halo %1$s,</string>
+    <string name="message_main_page">Selamat Datang di Story App oleh ZS</string>
+    <string name="story_message">Story tidak ditemukan</string>
+    <string name="logout">Keluar</string>
+    <string name="user_name">Nama</string>
+    <string name="user_desc">Description Story</string>
+    <string name="user_created_at">%1$s</string>
+
+    <!--Add Story-->
+    <string name="fab_add_story">Tambah Cerita</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="hint_description">Deskripsi Cerita (wajib)</string>
+    <string name="no_permission">Tidak mendapatkan izin</string>
+    <string name="actionbar_add_story">Tambah Cerita</string>
+    <string name="reminder_input_image">Please Input the Image File First.</string>
+
+    <string name="menu_localization">Ganti Bahasa</string>
+
+    <!--Camera-->
+    <string name="failed_take_pict">Gagal mengambil gambar</string>
+    <string name="failed_bring_up_camera">Gagal memunculkan kamera</string>
+
+    <!--Detail-->
+    <string name="actionbar_detail">Detail Cerita</string>
+    <string name="error_pass">Minimal Kata Sandi berisi 6 karakter</string>
+
+    <!-- Menu -->
+    <string name="title_activity_maps">Maps</string>
+    <string name="menu_map">Ganti ke Tampilan Map</string>
+    <string name="menu_list">Ganti ke Tampilan List</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="click_camera">Tekan Kamera</string>
+    <string name="switch_camera">Ganti Kamera</string>
+    <string name="detail_photo">Detail Gambar</string>
+
+</resources>
